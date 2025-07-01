@@ -6,7 +6,7 @@ A simple **DOM-based JavaScript project** that allows users to dynamically chang
 
 ## 🚀 Live Demo
 
-[View Project Live (optional)](https://your-github-username.github.io/background-color-changer)
+ https://student-uettaxila.github.io/Interchangable_background/
 
 ## 📁 Project Structure
 
